@@ -1,0 +1,18 @@
+/*Write your style here*/
+body{
+	background:url("../images/banner1.jpg")no-repeat center;
+	background size:cover;
+	-webkit-background size:cover;
+	}
+.txt{
+	color:#F6F3DF ;
+	font-family:calibri 93;
+	   font-size:20px;
+	   padding:10px 50px;
+	   top:50px;
+	   font size:50px;
+}
+.t{
+	font-size :50px;
+}
+
